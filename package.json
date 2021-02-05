@@ -15,4 +15,16 @@
     "field"
   ],
   "homepage": "https://github.com/pierrecabriere/mongoose-subquery",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "bluebird": "3.0.5"
+  },
+  "devDependencies": {
+    "mongoose": "4.2.8",
+    "mocha": "2.3.4",
+    "chai": "3.4.1",
+    "chai-as-promised": "5.1.0"
+  }
 }
