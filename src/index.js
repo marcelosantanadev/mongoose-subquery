@@ -1,4 +1,6 @@
 function mongooseSubquery(schema, options) {
+    if (!options) options = {};
+
     const decodeQuery = async function () {
         const mongooseQuery = this;
         const query = mongooseQuery.getQuery();
