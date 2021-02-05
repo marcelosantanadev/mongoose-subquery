@@ -2,7 +2,7 @@
   "name": "mongoose-subquery",
   "version": "2.0.6",
   "description": "mongoose-subquery provides a new operator to query on a reference document field",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "author": "Pierre Cabriere <hello@pierrecabriere.fr>",
   "license": "Apache 2.0",
   "keywords": [
